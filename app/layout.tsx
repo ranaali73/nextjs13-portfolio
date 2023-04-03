@@ -5,10 +5,10 @@ import { ThemeProvider } from 'next-themes'
 import Footer from '@/components/Footer'
 
 
-export const metadata = {
-  title: 'Rana Ali Zeeshan',
-  description: 'Nextjs 13, Tailwind css, TypeScript',
-}
+// export const metadata = {
+//   title: 'Rana Ali Zeeshan',
+//   description: 'Nextjs 13, Tailwind css, TypeScript',
+// }
 
 export default function RootLayout({
   children,
