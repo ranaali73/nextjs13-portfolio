@@ -1,4 +1,3 @@
-import Document, { Html, Main, NextScript } from "next/document";
 export default function Head() {
     return (
         <>
