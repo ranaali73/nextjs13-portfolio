@@ -9,14 +9,14 @@ const projects = [
         name: "rAz Resume App",
         description:
             "Using the latest technologies and design trends to build websites that are not only beautiful but functional and user-friendly as well.",
-        image: "/project1.png",
+        image: "/static/images/project1.png",
         github: "https://github.com/ranaali73",
         link: "http://ranaalizeeshan.com/",
     },
     {
         name: "rAz App",
         description: "Using the latest technologies and design trends to build websites that are not only beautiful but functional and user-friendly as well.",
-        image: "/project2.png",
+        image: "/static/images/project2.png",
         github: "https://github.com/ranaali73",
         link: "http://ranaalizeeshan.com/",
     },
@@ -24,7 +24,7 @@ const projects = [
         name: "rAz Portfolio App",
         description:
             "Using the latest technologies and design trends to build websites that are not only beautiful but functional and user-friendly as well.",
-        image: "/project3.png",
+        image: "/static/images/project3.png",
         github: "https://github.com/ranaali73",
         link: "http://ranaalizeeshan.com/",
     },
